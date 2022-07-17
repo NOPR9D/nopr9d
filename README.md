@@ -75,7 +75,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/nopr9d/nopr9d/output/snake.svg" alt="Snake animation" />
+<p align="center"><img src="https://raw.githubusercontent.com/NOPR9D/nopr9d/output/snake.svg" alt="Snake animation" /></p>
 
 ###
 
