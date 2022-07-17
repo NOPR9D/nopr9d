@@ -79,12 +79,12 @@
 
 ###
 
-<p align="left">Keep in contact ? Take a coffee togather ?</p>
+<p align="left">Keep in contact ? Wanna take a coffee ?</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/SZ3LS3q4Tki9W/giphy.gif?cid=ecf05e47or0cyf38mbc2dn0yww04kxb8g18yva2luscyd14d&rid=giphy.gif&ct=g"  />
+  <img height="200" src="https://media.giphy.com/media/SZ3LS3q4Tki9W/giphy-downsized.gif"  />
 </div>
 
 ###
