@@ -121,7 +121,7 @@
 
 ###
 
-<p align="left">Blog post ✏️ : </p>
+<p align="left"> Last blog post ✏️ : </p>
 
 <!-- BLOG-POST-LIST:START -->
 - [Easily create your own NGRX | Redux store](https://dev.to/noprod/easily-create-your-own-ngrx-redux-store-8co)
