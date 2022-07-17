@@ -107,18 +107,6 @@
   </a>
 </div>
 
-
-
-###
-
-<p align="left">Spotify listening 🎧 :</p>
-
-###
-
-<div align="center">
-  <img src="https://novatorem-liard-delta.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
 ###
 
 <p align="left"> Last blog post ✏️ : </p>
@@ -129,3 +117,12 @@
 - [Update of Vue Rx to Vue Next Rx](https://dev.to/noprod/update-of-vue-rx-to-rx-vue-next-264g)
 - [Run your own Alexa Skill locally &lpar;and test it&rpar; [JS]](https://dev.to/noprod/run-your-own-alexa-skill-locally-and-test-it-3oa9)
 <!-- BLOG-POST-LIST:END -->
+
+
+<p align="left">Spotify listening 🎧 :</p>
+
+###
+
+<div align="center">
+  <img src="https://novatorem-liard-delta.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
+</div>
