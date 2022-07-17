@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nopr9d.nopr9d&left_color=darkgreen&right_color=darkviolet&left_text=Number of people who landed here"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nopr9d.nopr9d&left_color=darkgreen&right_color=darkviolet&left_text=Number%20of%20people%20who%20landed%20here"  />
 </div>
 
 ###
