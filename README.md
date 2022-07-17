@@ -121,7 +121,7 @@
 
 ###
 
-<p align="left">Blog post ✏️ :</p>
+<p align="left">Blog post ✏️ : </p>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
