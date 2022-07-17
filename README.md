@@ -124,4 +124,8 @@
 <p align="left">Blog post ✏️ : </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Easily create your own NGRX | Redux store](https://dev.to/noprod/easily-create-your-own-ngrx-redux-store-8co)
+- [Build Single Page App with Rx [From scratch]](https://dev.to/noprod/build-single-page-app-with-rx-from-scratch-227g)
+- [Update of Vue Rx to Vue Next Rx](https://dev.to/noprod/update-of-vue-rx-to-rx-vue-next-264g)
+- [Run your own Alexa Skill locally &lpar;and test it&rpar; [JS]](https://dev.to/noprod/run-your-own-alexa-skill-locally-and-test-it-3oa9)
 <!-- BLOG-POST-LIST:END -->
