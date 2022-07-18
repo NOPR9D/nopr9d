@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif?cid=ecf05e4754z52daj3plraw8i464merk0gvcex3n4dhi63kqf&rid=giphy.gif&ct=g"  />
+  <img height="200" src="https://media1.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif?cid=ecf05e4754z52daj3plraw8i464merk0gvcex3n4dhi63kqf&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
