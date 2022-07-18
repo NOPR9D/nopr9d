@@ -58,11 +58,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&username=nopr9d" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&username=nopr9d" height="200" alt="stats graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=7&theme=default&hide_border=true&username=nopr9d" height="350" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=7&theme=vue&hide_border=true&username=nopr9d" height="350" alt="languages graph"  />
 </div>
 
 ###
