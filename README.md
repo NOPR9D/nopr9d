@@ -1,4 +1,4 @@
-<h4 align="left">👋 Welcome here !<br><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h4>
+<h2 align="left">👋 Welcome here !<br><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h2>
 
 ![](https://komarev.com/ghpvc/?username=nopr9d&label=Number%20of%20people%20who%20landed%20here&color=blueviolet)
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h6 align="left">Main skills :</h6>
+<h3 align="left">Main skills :</h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h6 align="left">Somes random stats :</h6>
+<h3 align="left">Somes random stats :</h3>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h6 align="left">Random 🐍 who eat my commits :</h6>
+<h3 align="left">Random 🐍 who eat my commits :</h3>
 
 ###
 
@@ -76,14 +76,14 @@
 
 ###
 
-<h6 align="left">Contest 🏆 :</h6>
+<h3 align="left">Contest 🏆 :</h3>
 
 - [WeLoveDevs Developer Ranking](https://welovedevs.com/app/fr/tests/leaderboard) (Can find me above top 20 Amine Boucham)
 
 
 ###
 
-<h6 align="left"> Last blog post ✏️ : </h6>
+<h3 align="left"> Last blog post ✏️ : </h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Easily create your own NGRX | Redux store](https://dev.to/noprod/easily-create-your-own-ngrx-redux-store-8co)
@@ -93,7 +93,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<h6 align="left">Spotify listening 🎧 :</h6>
+<h3 align="left">Spotify listening 🎧 :</h3>
 
 ###
 
@@ -103,7 +103,7 @@
 
 
 
-<h6 align="left">Keep in contact ? Wanna take a coffee ?</h6>
+<h3 align="left">Keep in contact ? Wanna take a coffee ?</h3>
 
 ###
 
