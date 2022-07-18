@@ -76,6 +76,13 @@
 
 ###
 
+<h6 align="left">Contest 🏆 :</h6>
+
+- [WeLoveDevs Developer Ranking](https://welovedevs.com/app/fr/tests/leaderboard) (Can find me above top 20 Amine Boucham)
+
+
+###
+
 <h6 align="left"> Last blog post ✏️ : </h6>
 
 <!-- BLOG-POST-LIST:START -->
