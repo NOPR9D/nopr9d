@@ -18,7 +18,7 @@
 
 ###
 
-<h6 align="left">Main use :</h6>
+<h6 align="left">Main skills :</h6>
 
 ###
 
@@ -71,7 +71,7 @@
 
 ###
 
-<p align="left">Random 🐍 who eat my commits.</p>
+<p align="left">Random 🐍 who eat my commits :</p>
 
 ###
 
