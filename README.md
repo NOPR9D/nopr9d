@@ -1,14 +1,7 @@
-<br clear="both">
-
 <h4 align="left">👋 Welcome here !<br><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h4>
 
-###
+![](https://komarev.com/ghpvc/?username=nopr9d&label=Number%20of%20people%20who%20landed%20here&color=blueviolet)
 
-<br clear="both">
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nopr9d.nopr9d&left_color=darkgreen&right_color=darkviolet&left_text=Number%20of%20people%20who%20landed%20here"  />
-</div>
 
 ###
 
