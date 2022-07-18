@@ -80,6 +80,10 @@
 
 - [WeLoveDevs Developer Ranking](https://welovedevs.com/app/fr/tests/leaderboard) (Can find me above top 20 Amine Boucham)
 
+###
+<h3 align="left">Side Project 👨‍💻 :</h3>
+
+- [mylabz-xyz](https://github.com/mylabz-xyz)
 
 ###
 
@@ -95,13 +99,9 @@
 
 <h3 align="left">Spotify listening 🎧 :</h3>
 
-###
-
 <div align="center">
   <img src="https://novatorem-liard-delta.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
-
-
 
 <h3 align="left">Keep in contact ? Wanna take a coffee ?</h3>
 
