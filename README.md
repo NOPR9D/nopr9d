@@ -59,12 +59,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&username=nopr9d" height="200" alt="stats graph"  />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=7&theme=default&hide_border=true&username=nopr9d" height="350" alt="languages graph"  />
 </div>
 
 ###
 
-<p align="left">Random 🐍 who eat my commits :</p>
+<h6 align="left">Random 🐍 who eat my commits :</h6>
 
 ###
 
@@ -73,7 +76,7 @@
 
 ###
 
-<p align="left"> Last blog post ✏️ : </p>
+<h6 align="left"> Last blog post ✏️ : </h6>
 
 <!-- BLOG-POST-LIST:START -->
 - [Easily create your own NGRX | Redux store](https://dev.to/noprod/easily-create-your-own-ngrx-redux-store-8co)
@@ -83,7 +86,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p align="left">Spotify listening 🎧 :</p>
+<h6 align="left">Spotify listening 🎧 :</h6>
 
 ###
 
@@ -93,7 +96,7 @@
 
 
 
-<p align="left">Keep in contact ? Wanna take a coffee ?</p>
+<h6 align="left">Keep in contact ? Wanna take a coffee ?</h6>
 
 ###
 
