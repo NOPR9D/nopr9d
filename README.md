@@ -13,7 +13,7 @@
 ###
 <div align="center">
 
-Uh Oh, this readme is in the works!
+Uh Oh, this part is in the works!
 
 Construction workers working on it
 
