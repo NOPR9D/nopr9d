@@ -1,6 +1,25 @@
+<table >
+<tr>
+<th align="center">
+<img width="660" height="1">
+</th>
+<th align="center">
+<img width="220" height="1">
+</th>
+</tr>
+  <tr >
+    <td>
 <h2 align="left">👋 Welcome here !<br><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h2>
+    </td>
+    <td align="center">
+    <a href="https://app.daily.dev/NOPR9D"><img src="https://api.daily.dev/devcards/20893da61b204910aa1268937fead066.png?r=t0o" width="200" alt="NOPR9D ☄️'s Dev Card"/></a>
+    </td>
+  </tr>
+  </table>
 
 ![](https://komarev.com/ghpvc/?username=nopr9d&label=Number%20of%20people%20who%20landed%20here&color=blueviolet)
+
+
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/Q5Fp8DviZhYDrEZw5H/giphy.gif?cid=ecf05e47x2d37oukzbu1t3oo9j2txxvs2n7l7km3t2xrs2jj&rid=giphy.gif&ct=g"  />
