@@ -31,7 +31,6 @@ Daily Dev Card
 
 <h3 align="left">Main skills :</h3>
 
-###
 <div align="center">
 
 Uh Oh, this part is in the works!
@@ -43,7 +42,6 @@ Come back later!
 ![](https://media4.giphy.com/media/2YOp8WqFDRHhe/giphy.gif?cid=ecf05e471iool9xzca4rkb7z5qjc621npk5ry953dkgq4bxm&rid=giphy.gif&ct=g)
 </div>
 
-
 ---
 
 <h3 align="left">Somes random stats :</h3>
@@ -52,9 +50,6 @@ Come back later!
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif?cid=ecf05e4754z52daj3plraw8i464merk0gvcex3n4dhi63kqf&rid=giphy.gif&ct=g"  />
 </div>
-
-
-
 
 <table align="center">
 <tr>
@@ -111,8 +106,8 @@ Rank
   </tr>
   </table>
 
-
 ---
+
 <h3 align="left">Side Project 👨‍💻 :</h3>
 <table align="center">
 <tr>
@@ -134,8 +129,6 @@ Description
      </td>
   </tr>
   </table>
-
-- []()
 
 ---
 
@@ -163,8 +156,8 @@ Description
      </td>
   </tr>
   </table>
----
 
+---
 
 <h3 align="left">Keep in contact ? Wanna take a coffee ?</h3>
 
