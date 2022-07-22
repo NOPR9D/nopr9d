@@ -1,4 +1,4 @@
-<table >
+<table align="center">
 <tr>
 <th align="center">
 <img width="660" height="1">
@@ -56,7 +56,7 @@ Come back later!
 
 
 
-<table >
+<table align="center">
 <tr>
 <th align="center">
   Global Stats
@@ -90,7 +90,7 @@ Come back later!
 <h3 align="left">Contest 🏆 :</h3>
 
 
-<table >
+<table align="center">
 <tr>
 <th align="center">
 Website
@@ -114,7 +114,7 @@ Rank
 
 ---
 <h3 align="left">Side Project 👨‍💻 :</h3>
-<table >
+<table align="center">
 <tr>
 <th align="center">
 Link
@@ -151,7 +151,7 @@ Description
 ---
 
 <h3 align="left">Spotify listening 🎧 :</h3>
-<table >
+<table align="center">
 <tr>
 <th align="center">
 <img width="660" height="1">
@@ -172,7 +172,7 @@ Description
   <img height="200" src="https://media.giphy.com/media/SZ3LS3q4Tki9W/giphy-downsized.gif"  />
 </div>
 
-<table >
+<table align="center">
 <tr>
 <th align="center">
 Codepen
@@ -221,10 +221,3 @@ Youtube
   </tr>
   </table>
 
-<div align="left">
-  
-
-  
-  
- 
-</div>
