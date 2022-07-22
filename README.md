@@ -4,12 +4,14 @@
 <img width="660" height="1">
 </th>
 <th align="center">
+Daily Dev Card
 <img width="220" height="1">
 </th>
 </tr>
   <tr >
     <td>
-<h2 align="left">👋 Welcome here !<br><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h2>
+<h2 align="center">👋 Welcome here !<br></h2>
+<h2 align="left"><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h2>
     </td>
     <td align="center">
     <a href="https://app.daily.dev/NOPR9D"><img src="https://api.daily.dev/devcards/20893da61b204910aa1268937fead066.png?r=t0o" width="200" alt="NOPR9D ☄️'s Dev Card"/></a>
@@ -52,13 +54,26 @@ Come back later!
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&username=nopr9d" height="200" alt="stats graph"  />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=7&theme=nord&hide_border=true&username=nopr9d" height="350" alt="languages graph"  />
-</div>
+
+<table >
+<tr>
+<th align="center">
+<img width="441" height="1">
+</th>
+<th align="center">
+<img width="441" height="1">
+</th>
+</tr>
+ <tr >
+    <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&username=nopr9d" height="200" alt="stats graph"  />
+     </td>
+    <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=7&theme=nord&hide_border=true&username=nopr9d" height="350" alt="languages graph"  />
+     </td>
+  </tr>
+  </table>
 
 ---
 
@@ -72,12 +87,53 @@ Come back later!
 
 <h3 align="left">Contest 🏆 :</h3>
 
-- [WeLoveDevs Developer Ranking](https://welovedevs.com/app/fr/tests/leaderboard) (Can find me above top 20 Amine Boucham)
+
+<table >
+<tr>
+<th align="center">
+Website
+<img width="220" height="1">
+</th>
+<th align="center">
+Rank
+<img width="660" height="1">
+</th>
+</tr>
+ <tr >
+    <td align="center">
+    <a href="https://welovedevs.com/app/fr/tests/leaderboard">WeLoveDevs Developer Ranking</a>
+     </td>
+     <td align="center">
+     Can find me above top 20 as Amine Boucham
+     </td>
+  </tr>
+  </table>
+
 
 ---
 <h3 align="left">Side Project 👨‍💻 :</h3>
+<table >
+<tr>
+<th align="center">
+Link
+<img width="220" height="1">
+</th>
+<th align="center">
+Description
+<img width="660" height="1">
+</th>
+</tr>
+ <tr >
+    <td align="center">
+    <a href="https://github.com/mylabz-xyz">mylabz-xyz</a>
+     </td>
+     <td align="center">
+     Trying to make web development easier
+     </td>
+  </tr>
+  </table>
 
-- [mylabz-xyz](https://github.com/mylabz-xyz)
+- []()
 
 ---
 
@@ -93,11 +149,18 @@ Come back later!
 ---
 
 <h3 align="left">Spotify listening 🎧 :</h3>
-
-<div align="center">
+<table >
+<tr>
+<th align="center">
+<img width="660" height="1">
+</th>
+</tr>
+ <tr >
+    <td align="center">
   <img src="https://novatorem-liard-delta.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
+     </td>
+  </tr>
+  </table>
 ---
 
 
@@ -107,20 +170,59 @@ Come back later!
   <img height="200" src="https://media.giphy.com/media/SZ3LS3q4Tki9W/giphy-downsized.gif"  />
 </div>
 
-<div align="left">
-  <a href="https://codepen.io/NOPR9D" target="_blank">
+<table >
+<tr>
+<th align="center">
+Codepen
+<img width="132" height="1">
+</th>
+<th align="center">
+Dev.to
+<img width="132" height="1">
+</th>
+<th align="center">
+Linkedin
+<img width="132" height="1">
+</th>
+<th align="center">
+Twitter
+<img width="132" height="1">
+</th>
+<th align="center">
+Youtube
+<img width="132" height="1">
+</th>
+</tr>
+ <tr >
+    <td align="center">
+    <a href="https://codepen.io/NOPR9D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
-  <a href="https://dev.to/noprod" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+     </td>
+     <td align="center">
+       <a href="https://dev.to/noprod" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />  </a>
   </a>
-  <a href="https://fr.linkedin.com/in/amine-boucham" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/amine_boucham" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCWATiwMlNxlbyGIuWBs__sQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+     </td>
+     <td align="center">
+     <a href="https://fr.linkedin.com/in/amine-boucham" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />  </a>
+     </td>
+     <td align="center">
+     <a href="https://twitter.com/amine_boucham" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />  </a>
+     </td>
+     <td align="center">
+      <a href="https://www.youtube.com/channel/UCWATiwMlNxlbyGIuWBs__sQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />  </a>
+     </td>
+  </tr>
+  </table>
+
+<div align="left">
+  
+
+  
+  
+ 
 </div>
