@@ -10,7 +10,7 @@ Daily Dev Card
 </tr>
   <tr >
     <td>
-<h2 align="center">👋 Welcome here !<br></h2>
+<h2 align="center">👋 Welcome here !</h2>
 <h2 align="left"><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h2>
     </td>
     <td align="center">
