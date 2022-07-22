@@ -59,9 +59,11 @@ Come back later!
 <table >
 <tr>
 <th align="center">
+  Global Stats
 <img width="441" height="1">
 </th>
 <th align="center">
+  Langage Most Used
 <img width="441" height="1">
 </th>
 </tr>
