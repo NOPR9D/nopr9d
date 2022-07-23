@@ -216,7 +216,7 @@ Steam
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />  </a>
      </td>
       <td align="center">
-      <a href=https://steamcommunity.com/id/CHARMAPED" target="_blank">
+      <a href="https://steamcommunity.com/id/CHARMAPED" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="52" height="40" alt="youtube logo"  />  </a>
      </td>
   </tr>
