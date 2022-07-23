@@ -169,23 +169,27 @@ Description
 <tr>
 <th align="center">
 Codepen
-<img width="132" height="1">
+<img width="110" height="1">
 </th>
 <th align="center">
 Dev.to
-<img width="132" height="1">
+<img width="110" height="1">
 </th>
 <th align="center">
 Linkedin
-<img width="132" height="1">
+<img width="110" height="1">
 </th>
 <th align="center">
 Twitter
-<img width="132" height="1">
+<img width="110" height="1">
 </th>
 <th align="center">
 Youtube
-<img width="132" height="1">
+<img width="110" height="1">
+</th>
+<th align="center">
+Steam
+<img width="110" height="1">
 </th>
 </tr>
  <tr >
@@ -211,6 +215,12 @@ Youtube
       <a href="https://www.youtube.com/channel/UCWATiwMlNxlbyGIuWBs__sQ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />  </a>
      </td>
+      <td align="center">
+      <a href=https://steamcommunity.com/id/CHARMAPED" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="52" height="40" alt="youtube logo"  />  </a>
+     </td>
   </tr>
   </table>
 
+
+https://steamcommunity.com/id/CHARMAPED/
