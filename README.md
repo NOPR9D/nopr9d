@@ -221,6 +221,3 @@ Steam
      </td>
   </tr>
   </table>
-
-
-https://steamcommunity.com/id/CHARMAPED/
