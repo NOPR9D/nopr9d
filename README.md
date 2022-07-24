@@ -14,7 +14,7 @@ Daily Dev Card
 <h2 align="left"><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h2>
     </td>
     <td align="center">
-    <a href="https://app.daily.dev/NOPR9D"><img src="https://api.daily.dev/devcards/20893da61b204910aa1268937fead066.png?r=t0o" width="200" alt="NOPR9D ☄️'s Dev Card"/></a>
+    <a href="https://app.daily.dev/NOPR9D"><img src="https://github.com/NOPR9D/nopr9d/blob/main/devcard.svg" width="200" alt="NOPR9D ☄️'s Dev Card"/></a>
     </td>
   </tr>
   </table>
