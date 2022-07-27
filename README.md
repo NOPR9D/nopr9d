@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=&height=100&section=header" height="200" />
+
 <table align="center">
 <tr>
 <th align="center">
@@ -221,3 +224,6 @@ Steam
      </td>
   </tr>
   </table>
+  
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=&height=100&section=footer" height="200" />
