@@ -30,7 +30,7 @@ Daily Dev Card
   <img height="200" src="https://media4.giphy.com/media/Q5Fp8DviZhYDrEZw5H/giphy.gif?cid=ecf05e47x2d37oukzbu1t3oo9j2txxvs2n7l7km3t2xrs2jj&rid=giphy.gif&ct=g"  />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Main skills :</h3>
 
@@ -45,7 +45,7 @@ Come back later!
 ![](https://media4.giphy.com/media/2YOp8WqFDRHhe/giphy.gif?cid=ecf05e471iool9xzca4rkb7z5qjc621npk5ry953dkgq4bxm&rid=giphy.gif&ct=g)
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Somes random stats :</h3>
 
@@ -75,7 +75,7 @@ Come back later!
   </tr>
   </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Random 🐍 who eat my commits :</h3>
 
@@ -83,7 +83,7 @@ Come back later!
 <p align="center"><img src="https://raw.githubusercontent.com/NOPR9D/nopr9d/output/snake.svg" alt="Snake animation" /></p>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Contest 🏆 :</h3>
 
@@ -109,7 +109,7 @@ Rank
   </tr>
   </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Side Project 👨‍💻 :</h3>
 <table align="center">
@@ -133,7 +133,7 @@ Description
   </tr>
   </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left"> Last blog post ✏️ : </h3>
 
@@ -144,7 +144,7 @@ Description
 - [Run your own Alexa Skill locally &lpar;and test it&rpar; [JS]](https://dev.to/noprod/run-your-own-alexa-skill-locally-and-test-it-3oa9)
 <!-- BLOG-POST-LIST:END -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Spotify listening 🎧 :</h3>
 <table align="center">
@@ -160,7 +160,7 @@ Description
   </tr>
   </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Keep in contact ? Wanna take a coffee ?</h3>
 
@@ -226,4 +226,4 @@ Steam
   </table>
   
   
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=100&section=footer" height="200" />
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
