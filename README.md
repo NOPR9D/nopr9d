@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=100&section=header" height="200" />
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=header" height="100" />
 
 <table align="center">
 <tr>
@@ -226,4 +226,4 @@ Steam
   </table>
   
   
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=100&section=footer" height="200" />
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=100&section=footer" height="200" />
