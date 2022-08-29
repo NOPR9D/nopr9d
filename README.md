@@ -147,6 +147,7 @@ Description
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Spotify listening 🎧 :</h3>
+
 <table align="center">
 <tr>
 <th align="center">
@@ -159,6 +160,9 @@ Description
      </td>
   </tr>
   </table>
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/75882457/187112147-23b8a4cb-e828-4d82-bc55-25b0e4e6d1f1.gif" height="200" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
