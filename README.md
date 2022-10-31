@@ -147,6 +147,14 @@ Description
      Elden ring desktop HUB under development
      </td>
   </tr>
+   <tr >
+    <td align="center">
+    <a href="https://github.com/mylabz-xyz/vue-next-rx">@mylabz-xyz/vue-next-rx</a>
+     </td>
+     <td align="center">
+     Integration of RxJS for Vue 3 (Solutions have been found to implement the original lib, so I deprecated this project)
+     </td>
+  </tr>
   </table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
