@@ -128,7 +128,23 @@ Description
     <a href="https://github.com/mylabz-xyz">mylabz-xyz</a>
      </td>
      <td align="center">
-     Trying to make web development easier
+     Organization where I store all my serious projects
+     </td>
+  </tr>
+   <tr >
+    <td align="center">
+    <a href="https://github.com/mylabz-xyz/ng-forms-aio">@mylabz-xyz/ng-forms-aio</a>
+     </td>
+     <td align="center">
+     Currently finalizing this form builder from JSON
+     </td>
+  </tr>
+     <tr >
+    <td align="center">
+    <a href="https://github.com/mylabz-xyz/eldenring-overlay">@mylabz-xyz/eldenring-overlay</a>
+     </td>
+     <td align="center">
+     Elden ring desktop HUB under development
      </td>
   </tr>
   </table>
