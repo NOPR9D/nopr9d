@@ -133,7 +133,7 @@ Description
   </tr>
    <tr >
     <td align="center">
-    <a href="https://github.com/mylabz-xyz/ng-forms-aio">@mylabz-xyz/ng-forms-aio</a>
+    <a href="https://github.com/mylabz-xyz/ng-forms-aio">🚧 @mylabz-xyz/ng-forms-aio</a>
      </td>
      <td align="center">
      Currently finalizing this form builder from JSON
@@ -141,7 +141,7 @@ Description
   </tr>
      <tr >
     <td align="center">
-    <a href="https://github.com/mylabz-xyz/eldenring-overlay">@mylabz-xyz/eldenring-overlay</a>
+    <a href="https://github.com/mylabz-xyz/eldenring-overlay">🚧 @mylabz-xyz/eldenring-overlay</a>
      </td>
      <td align="center">
      Elden ring desktop HUB under development
@@ -149,7 +149,7 @@ Description
   </tr>
    <tr >
     <td align="center">
-    <a href="https://github.com/mylabz-xyz/vue-next-rx">@mylabz-xyz/vue-next-rx</a>
+    <a href="https://github.com/mylabz-xyz/vue-next-rx">🔒 @mylabz-xyz/vue-next-rx</a>
      </td>
      <td align="center">
      Integration of RxJS for Vue 3 (Solutions have been found to implement the original lib, so I deprecated this project)
