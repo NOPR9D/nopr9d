@@ -116,11 +116,11 @@ Rank
 <tr>
 <th align="center">
 Link
-<img width="220" height="1">
+<img width="260" height="1">
 </th>
 <th align="center">
 Description
-<img width="660" height="1">
+<img width="620" height="1">
 </th>
 </tr>
  <tr >
