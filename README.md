@@ -133,7 +133,7 @@ Description
   </tr>
    <tr >
     <td align="center">
-    <a href="https://github.com/mylabz-xyz/ng-forms-aio">@mylabz-xyz/ng-forms-aio 🚧 </a>
+    <a href="https://github.com/mylabz-xyz/ng-forms-aio">@mylabz-xyz/ng-forms-aio </a>
      </td>
      <td align="center">
      Currently finalizing this form builder from JSON
