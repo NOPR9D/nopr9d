@@ -162,10 +162,10 @@ Description
 <h3 align="left"> Last blog post ✏️ : </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Socket.io | Show Number of visitor](https://dev.to/noprod/socketio-show-number-of-visitor-337)
 - [Easily create your own NGRX | Redux store](https://dev.to/noprod/easily-create-your-own-ngrx-redux-store-8co)
 - [Build Single Page App with Rx [From scratch]](https://dev.to/noprod/build-single-page-app-with-rx-from-scratch-227g)
 - [Update of Vue Rx to Vue Next Rx](https://dev.to/noprod/update-of-vue-rx-to-rx-vue-next-264g)
-- [Run your own Alexa Skill locally &lpar;and test it&rpar; [JS]](https://dev.to/noprod/run-your-own-alexa-skill-locally-and-test-it-3oa9)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
