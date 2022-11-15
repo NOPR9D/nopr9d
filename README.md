@@ -24,57 +24,6 @@ Daily Dev Card
 
 ![](https://komarev.com/ghpvc/?username=nopr9d&label=Number%20of%20people%20who%20landed%20here&color=blueviolet)
 
-
-
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/Q5Fp8DviZhYDrEZw5H/giphy.gif?cid=ecf05e47x2d37oukzbu1t3oo9j2txxvs2n7l7km3t2xrs2jj&rid=giphy.gif&ct=g"  />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
-
-<h3 align="left">Main skills :</h3>
-
-<div align="center">
-
-Uh Oh, this part is in the works!
-
-Construction workers working on it
-
-Come back later!
-
-![](https://media4.giphy.com/media/2YOp8WqFDRHhe/giphy.gif?cid=ecf05e471iool9xzca4rkb7z5qjc621npk5ry953dkgq4bxm&rid=giphy.gif&ct=g)
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
-
-<h3 align="left">Somes random stats :</h3>
-
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif?cid=ecf05e4754z52daj3plraw8i464merk0gvcex3n4dhi63kqf&rid=giphy.gif&ct=g"  />
-</div>
-
-<table align="center">
-<tr>
-<th align="center">
-  Global Stats
-<img width="441" height="1">
-</th>
-<th align="center">
-  Langage Most Used
-<img width="441" height="1">
-</th>
-</tr>
- <tr >
-    <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&username=nopr9d" height="200" alt="stats graph"  />
-     </td>
-    <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=7&theme=nord&hide_border=true&username=nopr9d" height="350" alt="languages graph"  />
-     </td>
-  </tr>
-  </table>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
 <h3 align="left">Random 🐍 who eat my commits :</h3>
@@ -167,26 +116,6 @@ Description
 - [Build Single Page App with Rx [From scratch]](https://dev.to/noprod/build-single-page-app-with-rx-from-scratch-227g)
 - [Update of Vue Rx to Vue Next Rx](https://dev.to/noprod/update-of-vue-rx-to-rx-vue-next-264g)
 <!-- BLOG-POST-LIST:END -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
-
-<h3 align="left">Spotify listening 🎧 :</h3>
-
-<table align="center">
-<tr>
-<th align="center">
-<img width="660" height="1">
-</th>
-</tr>
- <tr >
-    <td align="center">
-  <img src="https://novatorem-liard-delta.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
-     </td>
-  </tr>
-  </table>
-  <div align="center">
-<img src="https://user-images.githubusercontent.com/75882457/187112147-23b8a4cb-e828-4d82-bc55-25b0e4e6d1f1.gif" height="200" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
