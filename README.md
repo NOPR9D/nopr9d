@@ -7,6 +7,9 @@
 <img width="660" height="1">
 </th>
 <th align="center">
+  
+
+
 Daily Dev Card
 <img width="220" height="1">
 </th>
@@ -14,7 +17,11 @@ Daily Dev Card
   <tr >
     <td>
 <h2 align="center">👋 Welcome here !</h2>
-<h2 align="left"><br>I'm NOPR9D, Fullstack Dev.<br><br>Feel free to follow the links in this readme !</h2>
+<h2 align="left"><br>I'm NOPR9D, Fullstack Dev.<br><br>I do things that make Blip Blop Bloop</h2>
+      
+<div align="center">
+<img height="200" src="https://user-images.githubusercontent.com/75882457/201827646-ef0973b4-9b55-46b9-9198-db51f8bac190.gif"  />
+</div>
     </td>
     <td align="center">
     <a href="https://app.daily.dev/NOPR9D"><img src="https://github.com/NOPR9D/nopr9d/blob/main/devcard.svg" width="200" alt="NOPR9D ☄️'s Dev Card"/></a>
