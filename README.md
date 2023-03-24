@@ -127,6 +127,28 @@ Description
 
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
 
+
+<h3 align="left">Spotify listening 🎧 :</h3>
+
+<table align="center">
+<tr>
+<th align="center">
+<img width="660" height="1">
+</th>
+</tr>
+ <tr >
+    <td align="center">
+  <img src="https://novatorem-liard-delta.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
+     </td>
+  </tr>
+  </table>
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/75882457/187112147-23b8a4cb-e828-4d82-bc55-25b0e4e6d1f1.gif" height="200" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=footer" height="100" />
+
+
 <h3 align="left">Keep in contact ? Wanna take a coffee ?</h3>
 
 <div align="center">
