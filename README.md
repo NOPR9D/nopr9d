@@ -5,7 +5,7 @@
 
 **Fullstack Developer**
 
-I build web applications, tools and side projects — sometimes serious, sometimes a little less so.
+I build web applications, tools and side projects — sometimes serious, sometimes a little less.
 
 🌐 [My website](https://www.mylabz.xyz)
 
